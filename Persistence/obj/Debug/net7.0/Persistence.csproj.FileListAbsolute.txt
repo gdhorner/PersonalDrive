@@ -1,0 +1,15 @@
+C:\projects\PersonalDrive\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Projects\PersonalDrive\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Projects\PersonalDrive\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Projects\PersonalDrive\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Projects\PersonalDrive\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Projects\PersonalDrive\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Projects\PersonalDrive\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PersonalDrive\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Projects\PersonalDrive\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Projects\PersonalDrive\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\projects\PersonalDrive\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Projects\PersonalDrive\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Projects\PersonalDrive\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Projects\PersonalDrive\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\projects\PersonalDrive\Persistence\obj\Debug\net7.0\ref\Persistence.dll
